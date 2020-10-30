@@ -1,4 +1,5 @@
-:thinking: **ETKİLİ DİSCORD KULLANIMI** :thinking: 
+# 🤔 **Doğru Soru**
+
 Sunucu sürekli bir sohbet akışı içindedir. Eğer ilk defa Discord kullanıyor isen sorduğun soru arada kaynayıp gidebilir. Bu yüzden etiket kullanmak seni ilgili kişilere daha hızlı ulaştıracaktır. Etiket yerine "rol veya mention" gibi tanımlamalar da duyabilirsin. 3 tanım da aynı şeyi ifade etmektedir. 
 
 **ÖRNEK 0**
