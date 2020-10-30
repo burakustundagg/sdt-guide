@@ -7,19 +7,19 @@ Merhaba Dostum,
 Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü ve birçok kaliteli topluluktan ilham alınarak yapılandırılan moderasyon sistemi ile sunucu her zaman düzen ve güven içinde. Moderatör ve üyelerimiz arasında kurulan samimi bağ da cabası. :)
 
 ## 📁 Kategoriler
-- [Sunucuya Kayıt](register.md)
-- [General (Genel)](general.md)                                        
-- [SDT ACTIVITY (Etkinlik Kategorisi)](sdt-activity.md)
-- [SDT SOCIAL (Sosyal Kategorisi)](sdt-social.md)
-- [SDT LAB (Sesli Sohbet Odaları)](sdt-lab.md)
+- [Sunucuya Kayıt](pages/register.md)
+- [General (Genel)](pages/general.md)                                        
+- [SDT ACTIVITY (Etkinlik Kategorisi)](pages/sdt-activity.md)
+- [SDT SOCIAL (Sosyal Kategorisi)](pages/sdt-social.md)
+- [SDT LAB (Sesli Sohbet Odaları)](pages/sdt-lab.md)
 
 ## 🤔 Daha Fazla
-- [Hiyerarşi](sdt-hierarchy.md)
-- [Moderasyon](moderation.md)
-- [Doğru Soru](right-question.md)
-- [Sıkça Sorulan Sorular](sss.md)
+- [Hiyerarşi](pages/sdt-hierarchy.md)
+- [Moderasyon](pages/moderation.md)
+- [Doğru Soru](pages/right-question.md)
+- [Sıkça Sorulan Sorular](pages/sss.md)
 
-
+---
 
 ## 🛡 **MODERASYON EKİBİ** 🛡 
 ```
@@ -34,9 +34,7 @@ Moderator  -  Malik Masis
 Moderator  -  Önder Bakırtaş
 ```
 
-
-
-
+---
 
 ## 👑 **SDT SPECIAL MEMBERS** 👑
 
@@ -70,13 +68,9 @@ Ferdi Çıldız
 Mahmut Emre Altun
 ```
 
+---
 
-
-
-
-
-
-## **SOSYAL MEDYA HESAPLARIMIZ**
+## 🔗 **SOSYAL MEDYA HESAPLARIMIZ** 🔗
 
 [Medium](https://medium.com/software-development-turkey)
 
