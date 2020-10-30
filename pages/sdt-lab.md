@@ -1,4 +1,7 @@
+![lab](../assets/img/lab.png)
+
 # 🔬 **SDT LAB**
+
 SDT LAB, üyelerimizin proje geliştirmeleri için uygun ortam sağlayan kanalları barındırır.
 
 **#bot-channel:** Sesli odalarda müzik dinlemek ve kod parçalarını derlemek için bu kanalı kullanabilirsin.

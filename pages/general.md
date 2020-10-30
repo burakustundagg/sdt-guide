@@ -1,3 +1,5 @@
+![general](../assets/img/chat.png)
+
 # 👥 **GENERAL**
 
 Kaydını yaptıktan sonra karşına birçok kanal çıkacak. Her kanal bir amaç için bulunmakta ve sunucu içerisindeki kargaşayı engellemekte. İstersen sana bunları biraz tanıtalım.

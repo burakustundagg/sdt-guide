@@ -1,4 +1,7 @@
+![sign-in](../assets/img/sign-in.png)
+
 ## ✍️ **KAYIT İŞLEMLERİ**
+
 Aramıza katılmak hiç de zor değil. "Welcome" adı verdiğimiz kategoriden kayıt işlemlerini gerçekleştirmek için birkaç kanal mevcut.
 
 **#readme:** Kurallarımızı bu kanalda görebilirsin. Kurallarımızı kesinllikle okumanı tavsiye ediyoruz. Bu topluluğumuzun daha saygın ve kaliteli olması için önemli noktalardan biri.

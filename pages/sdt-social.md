@@ -1,3 +1,5 @@
+![dev-blog](../assets/img/dev-blog.png)
+
 # 🎭 **SDT SOCIAL**
 
 Bu kategoride bulunan kanallar sayesinde SDT ailesiyle sosyalleşebilirsin.

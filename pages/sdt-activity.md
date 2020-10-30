@@ -1,3 +1,5 @@
+![activity](../assets/img/activity.png)
+
 # 🎙 **SDT ACTIVITY**
 
 Sunucumuzda belirli aralıklarda etkinlikler düzenlemekteyiz. Bu etkinliklerden bazıları aşağıdaki gibidir.
