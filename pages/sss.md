@@ -35,7 +35,7 @@ Kodunun başınına ve sonuna 3 adet ters tırnak (`) koyman yeterli. Bu işaret
 
 (Kodu renklendirmek için "ilk satıra 3 ters tırnak ardından kodun dili" yolunu izleyebilirsin.)
 
-![kod renklendirme](assets/img/highlighted.png)
+![kod renklendirme](../assets/img/highlighted.png)
 
 ---
  
