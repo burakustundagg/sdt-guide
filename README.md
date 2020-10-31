@@ -82,6 +82,6 @@ Mahmut Emre Altun
 
 [YouTube](https://youtube.com/c/SoftwareDevelopmentTurkey)
 
-[GitHub](https://github.com/softwaredevelopmenttr)
+[GitHub](https://github.com/sdtrdev)
 
 [Patreon](https://patreon.com/softwaredevelopmentturkey)
