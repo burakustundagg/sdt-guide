@@ -1,0 +1,22 @@
+{
+  "name": "stdturkey",
+  "version": "1.0.0",
+  "description": "A CLI app for Software Development Turkey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "bufgix",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^4.1.3",
+    "chalk": "^4.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "bin": {
+    "stdturkey": "./index.js"
+  }
+}
