@@ -25,15 +25,17 @@ Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü 
 
 ## 🛡 **MODERASYON EKİBİ** 🛡 
 ```
-$ sdt --list-crew
+$ npx sdtr --list-crew
 
-Owner  -  Doğancan Koç
-Owner  -  Ömer Ayyıldız
-Moderator  -  Abdullah Şahin
-Moderator  -  Ahmet İbrahim Aksoy
-Moderator  -  Damla Köksal
-Moderator  -  Malik Masis
-Moderator  -  Önder Bakırtaş
+Owner - Doğancan Koç
+Owner - Ömer Ayyıldız
+Moderator - Abdullah Şahin
+Moderator - Ahmet İbrahim Aksoy
+Moderator - Damla Köksal
+Moderator - Malik Masis
+Moderator - Önder Bakırtaş
+
+💜 Join us: https://discord.gg/CjRWT3C9
 ```
 
 ---
@@ -42,7 +44,7 @@ Moderator  -  Önder Bakırtaş
 
 👨‍💻 **Special Programmers**
 ```
-$ sdt --list-special-programmers
+$ npx sdtr --list-special-programmers
 
 Engin Demiroğ 
 Selman Kahya
@@ -59,15 +61,19 @@ Dr. Uzay Çetin
 Ayhan Emre Korucu
 İlge İpek
 Volkan Özçelik
+
+💜 Join us: https://discord.gg/CjRWT3C9
 ```
 
 
 👨‍🎨 **Special Designers**
 ```
-$ sdt --list-special-designers
+$ npx sdtr --list-special-designers 
 
 Ferdi Çıldız 
 Mahmut Emre Altun
+
+💜 Join us: https://discord.gg/CjRWT3C9
 ```
 
 ---

@@ -1,0 +1,34 @@
+{
+  "moderation": [
+    { "name": "Doğancan Koç", "type": "owner" },
+    { "name": "Ömer Ayyıldız", "type": "owner" },
+    { "name": "Abdullah Şahin", "type": "mod" },
+    { "name": "Ahmet İbrahim Aksoy", "type": "mod" },
+    { "name": "Damla Köksal", "type": "mod" },
+    { "name": "Malik Masis", "type": "mod" },
+    { "name": "Önder Bakırtaş", "type": "mod" }
+  ],
+  "spacialmembers": [
+    { "name": "Engin Demiroğ ", "type": "programmer" },
+    { "name": "Selman Kahya", "type": "programmer" },
+    { "name": "Merve Ayyüce Kızrak", "type": "programmer" },
+    { "name": "Mustafa Murat Çoşkun", "type": "programmer" },
+    { "name": "Gökhan Kandemir", "type": "programmer" },
+    { "name": "Ömer Savaş", "type": "programmer" },
+    { "name": "Muhammed Hilmi Koca", "type": "programmer" },
+    { "name": "Eser Ozvataf", "type": "programmer" },
+    { "name": "Tarık Güney", "type": "programmer" },
+    {
+      "name": "Ömer Faruk Uçar | Lezzetli Robot Tarifleri",
+      "type": "programmer"
+    },
+    { "name": "Bora Kaşmer", "type": "programmer" },
+    { "name": "Dr. Uzay Çetin", "type": "programmer" },
+    { "name": "Ayhan Emre Korucu", "type": "programmer" },
+    { "name": "İlge İpek", "type": "programmer" },
+    { "name": "Volkan Özçelik", "type": "programmer" },
+    { "name": "Ferdi Çıldız ", "type": "designer" },
+    { "name": "Mahmut Emre Altun", "type": "designer" }
+  ],
+  "dclink": "https://discord.gg/CjRWT3C9"
+}
