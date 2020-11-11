@@ -44,5 +44,6 @@ fetch("https://raw.githubusercontent.com/bufgix/sdt-guide/master/users.json")
           });
         console.log();
       }
+    console.log(chalk.underline(`Join us: ${data.dclink}`))
   })
   .catch(console.error);
