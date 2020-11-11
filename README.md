@@ -82,8 +82,6 @@ Mahmut Emre Altun
 
 [Medium](https://medium.com/software-development-turkey)
 
-[LinkedIn](https://linkedin.com/company/software-development-turkey/)
-
 [Twitter](https://twitter.com/sdtrdev)
 
 [YouTube](https://youtube.com/c/SoftwareDevelopmentTurkey)
