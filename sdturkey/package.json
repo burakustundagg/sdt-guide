@@ -1,9 +1,10 @@
 {
-  "name": "stdturkey",
-  "version": "1.0.0",
+  "name": "sdtr",
+  "version": "1.0.1",
   "description": "A CLI app for Software Development Turkey",
   "main": "index.js",
   "scripts": {
+    "start": "./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,6 +18,6 @@
     "node-fetch": "^2.6.1"
   },
   "bin": {
-    "stdturkey": "./index.js"
+    "sdtr": "./index.js"
   }
 }

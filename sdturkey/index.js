@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#! /usr/bin/env node
 
 const fetch = require("node-fetch");
 const arg = require("arg");
