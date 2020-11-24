@@ -61,6 +61,7 @@ Dr. Uzay Çetin
 Ayhan Emre Korucu
 İlge İpek
 Volkan Özçelik
+Abdullah Uğraşkan
 
 💜 Join us: https://discord.gg/CjRWT3C9
 ```
