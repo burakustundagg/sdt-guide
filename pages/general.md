@@ -9,9 +9,7 @@ Kaydını yaptıktan sonra karşına birçok kanal çıkacak. Her kanal bir ama�
 **#announcements:** Tüm duyurularımızı buradan yayınlıyoruz. Duyuruların kendi sunucuna da gelmesini istiyorsan, kanalın üzerinde bulunan "takip et" butonuna basman yeterli.
  
 **#about-you:** Bu kanalda kendini tanıtabilirsin. Kendini uzun uzun tanıtman, sunucu içerisinde hem fırsatlara yol açar hem de aynı teknolojileri kullanan yazılımcılara daha hızlı ulaşmanı sağlar.
- 
-**#suggestions:** Sunucunun daha iyi olması için fikirlerin mi var? Bize bu kanaldan iletebilirsin. Kısa bir süre zarfında fikirlerini gerçekleştirmek için moderatörlerimiz konu üzerine çalışacaktır.
- 
+
 **#out-of-topic:** Kurallarımıza uyduğun sürece bu kanalda arkadaşlarınla geyik muhabbeti yapabilir, hoş sohbetlere vesile olabilirsin. Sana küçük bir ipucu verelim istersen. Yazmadan önce 2 kere düşünmen senin için daha iyi olur. Arkadaşlarınla tartışmak istemezsin öyle değil mi?
  
 **#link-sharing:** İlgini çeken ve üyelerin ilgisini çekebileceği linkleri burada paylaşabilirsin. Bazı linkleri senin güvenliğin için silebiliriz fakat bağlantı paylaşımının sorumluluğu tamamen paylaşan kişiye aittir.
