@@ -8,7 +8,7 @@ Bu kategoride bulunan kanallar sayesinde SDT ailesiyle sosyalleşebilirsin.
 
 **#sdt-medium:** Medium sayfamızda paylaşılan yazıları burada herkesin göreceği şekilde paylaşıyoruz.
 
-**#sdt-projects:** Açık kaynak olarak oluşturduğumuz projelerimizi burada görebilirsin ve tartışma başlatabilirsiniz.
+**#sdt-projects:** Açık kaynak olarak oluşturduğumuz projelerimizi burada görebilir ve tartışma başlatabilirsin.
 
 **#github-feed:** GitHub üzerinde geliştirdiğimiz projelerin aktivitesi bu kanalda yayınlanmaktadır. Bu kanala sadece GitHub Webhook yazılımı erişebilmektedir.
 
