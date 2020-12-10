@@ -10,5 +10,7 @@ Aramıza katılmak hiç de zor değil. "Welcome" adı verdiğimiz kategoriden ka
  
 **#choose-category:** Bu kanal, sunucuda bulunan kanallara daha hızlı ulaşabilmen için birtakım filtreleme uyguluyor. Görmek istediğin kanalların emoji karşılıklarınla basarak kanallara erişebilirsin.
 
+**#contact:** Bu kanalda ticket oluşturarak moderatörlere ulaşabilirsin. Bu kanal SDT Çağrı Merkezi görevi görmektedir.
+
 **NOT:** Sunucu içerisinde düzeni sağlamak adına **Ad ve Soyad** kuralımız bulunmakta. Sunucu içerisindeki kullanıcı adını bu kurala göre düzenlemeyi lütfen unutma. Bunun için sunucu adına basıp "kullanıcı adı değiştir" sekmesine tıklayarak kullanıcı adını ad ve soyad olarak değiştirmen yeterli. Veya   kanalına;
 `/nick Ad Soyad`  yazarak aynı işlemi gerçekleştirebilirsin.
