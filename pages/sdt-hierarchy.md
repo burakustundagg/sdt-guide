@@ -20,6 +20,8 @@
 
 **@✍️ Author:** Medium sayfamızda yazı paylaşan üyelerimize bu rol atanır.
 
+**@🐙 GitHub Contributor:** GitHub'da bulunan projelerimize katkı sağlayan üyelerimize verilir.
+
 **@🔱 Royal Member:** Sunucuda bir haftadan fazla aktiflik gösteren üyelere verilir. Bu rol, üyenin aktifliği düştüğü zaman geri alınır.
 
 **@⛔ Grounded:** Sunucuda bir kereliğine mahsus kargaşa yaratan üyelere geçici olarak verilir. 1 saat ile 2 gün arasında ceza süresi değişmektedir.
