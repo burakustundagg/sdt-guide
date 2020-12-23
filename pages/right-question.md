@@ -18,11 +18,10 @@ Bir rolü etiketledikten sonra eğer cevap alamıyorsan yanlış bir biçimde so
 
 Sana vereceğim bu linkten sunucu içerisinde nasıl soru soracağını daha iyi kavrayabilirsin.
 
-#### !
-Bu dökümanı **baştan sona okuman** bu sunucudaki aktiviten için birincil öncelikte önem taşıyor. 
+Bu dökümanı **baştan sona okuman** bu sunucudaki aktiviten için birincil öncelikte önem taşıyor.\ 
 https://gist.github.com/omerayyildiz/9778c411788535b67c4a5bd816fa7d98
 
-Eğer ki İngilizce biliyorsan bu dökümanı okumanı da şiddetle tavsiye ediyoruz.
+Eğer ki İngilizce biliyorsan bu dökümanı okumanı da şiddetle tavsiye ediyoruz.\
 https://stackoverflow.com/help/how-to-ask
 
 Teknik olarak ise çok önemli olan bir nokta var.
