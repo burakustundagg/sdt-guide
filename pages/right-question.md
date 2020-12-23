@@ -26,7 +26,8 @@ Eğer ki İngilizce biliyorsan bu dökümanı okumanı da şiddetle tavsiye ediy
 https://stackoverflow.com/help/how-to-ask
 
 Teknik olarak ise çok önemli olan bir nokta var.
-Eğer ki kod paylaşacaksan, paylaşacağın kodu aşağıdaki gibi yazman çok önemli ki discord bunu kod olarak anlasın,  bize doğru bir şekilde renklendirilmiş ve düzenlenmiş olarak gösterebilsin.
+Eğer ki kod paylaşacaksan, paylaşacağın kodu aşağıdaki gibi yazman çok önemli, ki discord bunu kod olarak anlasın. 
+Böylece paylaşılmış kodu, bize doğru bir şekilde renklendirilmiş ve düzenlenmiş olarak gösterebilsin.
 
 **Örnekler**
 
