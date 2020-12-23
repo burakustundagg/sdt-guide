@@ -14,8 +14,48 @@ Sunucu sürekli bir sohbet akışı içindedir. Eğer ilk defa Discord kullanıy
 
 **NOT:** Lütfen birden fazla etiket atarak üyeleri rahatsız etme. Herhangi bir etiketi bir kere kullanman, ilgili kişiye bildirim gitmesi için yeterlidir. Aksi takdirde mesajların silinir ve moderatörler tarafından uyarılırsın.
 
-Bir rolü etiketledikten sonra eğer cevap alamıyorsan yanlış bir biçimde soruyu sormuş olabilirsin. Üyeler iyi bir üslup ile yazılmayan sorulara cevap vermekten hoşlanmaz. Sana zaman ayırmalarını istiyorsan eğer, lütfen onlara ve zamanlarına saygılı davranmayı dene. Daha önce bir toplulukta bulunmadıysan üzülmene veya çekinmene gerek yok dostum. Sana vereceğim bu linkten sunucu içerisinde nasıl soru soracağını daha iyi kavrayabilirsin.
+Bir rolü etiketledikten sonra eğer cevap alamıyorsan yanlış bir biçimde soruyu sormuş olabilirsin. Üyeler iyi bir üslup ile yazılmayan sorulara cevap vermekten hoşlanmaz. Sana zaman ayırmalarını istiyorsan eğer, lütfen onlara ve zamanlarına saygılı davranmayı dene. Daha önce bir toplulukta bulunmadıysan üzülmene veya çekinmene gerek yok dostum. 
+
+Sana vereceğim bu linkten sunucu içerisinde nasıl soru soracağını daha iyi kavrayabilirsin.
+
+#### !
+Bu dökümanı **baştan sona okuman** bu sunucudaki aktiviten için birincil öncelikte önem taşıyor. 
 https://gist.github.com/omerayyildiz/9778c411788535b67c4a5bd816fa7d98
+
+Eğer ki İngilizce biliyorsan bu dökümanı okumanı da şiddetle tavsiye ediyoruz.
+https://stackoverflow.com/help/how-to-ask
+
+Teknik olarak ise çok önemli olan bir nokta var.
+Eğer ki kod paylaşacaksan, paylaşacağın kodu aşağıdaki gibi yazman çok önemli ki discord bunu kod olarak anlasın,  bize doğru bir şekilde renklendirilmiş ve düzenlenmiş olarak gösterebilsin.
+
+**Örnekler**
+
+````
+```c
+int main(int argc, char *argv[]) {
+    // Stuff..
+    exit 0
+}
+```
+````
+
+````
+```rust
+fn main() {
+    println!("hello world");
+}
+```
+````
+
+````
+```js
+setTimeout(()=>{
+    //..
+},42);
+```
+````
+
+Soru sorma biçimi ile ilgili basit bir örneği aşağıda bulabilirsin.
 
 **YANLIŞ ÖRNEK**
 > SA RUBY'DEN ANLAYAN VAR MI??????
