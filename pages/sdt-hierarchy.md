@@ -6,11 +6,11 @@
 
 **@🛡️ Moderator:** Sunucu düzenini sağlar. Üyeleri atma, yasaklama ve susturma yetkilerine sahiptir. Tüm kanalları ortak karar sonucu düzenleyebilir. Sunucunun güvenliğinden sorumludur.
 
-**@👥 Social Media Officials:** Topluluğun sosyal medya işleri ilgilenen üyelere verilir.
+**@👥 Social Media Officials:** Topluluğun sosyal medya işleri ile ilgilenen üyelere verilir.
 
 **@✍️ BTK Officials:** Bilişim Teknolojileri Kurumu'nda çalışan özel üyelere verilir.
 
-**@👑 SDT Special Member:** Özel davet ile aramıza katılan Udemy eğitmenlerine, medium yazarlarına, YouTube ve Twitter fenomenlerine, içerik editörlerine ve akademik yetkinliği olan hocalarımıza verilmektedir.
+**@👑 SDT Special Member:** Özel davet ile aramıza katılan Udemy eğitmenlerine, medium yazarlarına, YouTube ve Twitter fenomenlerine, içerik üreticilerine ve akademik yetkinliği olan hocalarımıza verilmektedir.
 
 **@💎 Server Booster:** Sunucuya takviye yaparak ek özelliklerin kilidini açan üyelere verilir. Takviye bitene kadar hiçbir şekilde rol üyeden alınamaz.
 
@@ -18,7 +18,7 @@
 
 **@🎨 Master Designer:** Sektörde tecrübeli ve topluluk içinde en çok katkısı olan tasarımcılara bu rol verilir. Bu rol sadece moderatörlerin ortak kararı ile verilir.
 
-**@✍️ Author:** Medium sayfamızda yazı paylaşan üyelerimize bu rol atanır.
+**@✍️ Author:** Medium sayfamızda yazı paylaşan üyelerimize bu rol verilir.
 
 **@🐙 GitHub Contributor:** GitHub'da bulunan projelerimize katkı sağlayan üyelerimize verilir.
 
