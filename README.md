@@ -62,6 +62,7 @@ Ayhan Emre Korucu
 İlge İpek
 Volkan Özçelik
 Abdullah Uğraşkan
+Jaex
 
 💜 Join us: https://discord.gg/CjRWT3C9
 ```
