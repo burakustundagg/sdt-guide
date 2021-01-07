@@ -63,6 +63,7 @@ Ayhan Emre Korucu
 Volkan Özçelik
 Abdullah Uğraşkan
 Jaex
+Selçuk Ermaya
 
 💜 Join us: https://discord.gg/CjRWT3C9
 ```
