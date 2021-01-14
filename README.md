@@ -64,6 +64,7 @@ Volkan Özçelik
 Abdullah Uğraşkan
 Jaex
 Selçuk Ermaya
+Azmi Mengü
 
 💜 Join us: https://discord.gg/CjRWT3C9
 ```
