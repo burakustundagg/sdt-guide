@@ -8,9 +8,11 @@ Merhaba Dostum,
 
 Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü ve birçok kaliteli topluluktan ilham alınarak yapılandırılan moderasyon sistemi ile sunucu her zaman düzen ve güven içinde. Moderatör ve üyelerimiz arasında kurulan samimi bağ da cabası. :)
 
+## Discord Sınırsız Link: https://discord.gg/5WsVJ5A
+
 ## 📁 Kategoriler
 - [Sunucuya Kayıt](pages/register.md)
-- [General (Genel)](pages/general.md)                                        
+- [General (Genel)](pages/general.md)
 - [SDT ACTIVITY (Etkinlik Kategorisi)](pages/sdt-activity.md)
 - [SDT SOCIAL (Sosyal Kategorisi)](pages/sdt-social.md)
 - [SDT LAB (Sesli Sohbet Odaları)](pages/sdt-lab.md)
