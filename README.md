@@ -8,7 +8,7 @@ Merhaba Dostum,
 
 Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü ve birçok kaliteli topluluktan ilham alınarak yapılandırılan moderasyon sistemi ile sunucu her zaman düzen ve güven içinde. Moderatör ve üyelerimiz arasında kurulan samimi bağ da cabası. :)
 
-## Discord Sınırsız Link: https://discord.gg/5WsVJ5A
+## Discord Sınırsız Link: https://discord.gg/5WsVJ5A
 
 ## 📁 Kategoriler
 - [Sunucuya Kayıt](pages/register.md)
