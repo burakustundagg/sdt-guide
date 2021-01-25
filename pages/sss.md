@@ -52,3 +52,19 @@ LAB'larda nasıl yayın açabilirim?
 
 ### **Cevap:** 
 Herhangi bir LAB'a katıldıktan sonra aşağıda çıkan "Ekran" butonuna tıklayıp adımları izlemen yeterli.
+
+---
+
+## **Soru 7:**
+LAB'lara katılmak için izin almam gerekiyor mu?
+
+## **Cevap:**
+Sunucuda bulunan LAB'lar herkese açıktır. İstediğin yayına veya sohbete katılabilirsin. Katıldığın LAB'da yayın yapan kişi odadan çıkmanı isteyebilir. Özel bir proje geliştiren üyelere saygılı davranman daha doğru olacaktır.
+
+---
+
+## **Soru 8:**
+Sohbete dahil olmak istiyorum ama çok fazla kişi var ve çekiniyorum. Ne yapabilirim?
+
+## **Cevap:**
+Muhabbete dahil olmaktan çekinmemeni öneririz. Üyelerimiz yeni gelen üyelerle tanışmayı çok sever. Merhaba diyerek SDT ailenin parçası olabilirsin :)
