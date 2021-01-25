@@ -1,6 +1,6 @@
 ![sign-in](../assets/img/sign-in.png)
 
-## ✍️ **KAYIT İŞLEMLERİ**
+# ✍️ **KAYIT İŞLEMLERİ**
 
 Aramıza katılmak hiç de zor değil. "Welcome" adı verdiğimiz kategoriden kayıt işlemlerini gerçekleştirmek için birkaç kanal mevcut.
 
