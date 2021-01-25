@@ -13,8 +13,12 @@ Kaydını yaptıktan sonra karşına birçok kanal çıkacak. Her kanal bir ama�
 **#out-of-topic:** Kurallarımıza uyduğun sürece bu kanalda arkadaşlarınla geyik muhabbeti yapabilir, hoş sohbetlere vesile olabilirsin. Sana küçük bir ipucu verelim istersen. Yazmadan önce 2 kere düşünmen senin için daha iyi olur. Arkadaşlarınla tartışmak istemezsin öyle değil mi?
  
 **#link-sharing:** İlgini çeken ve üyelerin ilgisini çekebileceği linkleri burada paylaşabilirsin. Bazı linkleri senin güvenliğin için silebiliriz fakat bağlantı paylaşımının sorumluluğu tamamen paylaşan kişiye aittir.
+
+**#code-review:** Bu kanalda projeni veya kodunu herkese paylaşarak kodun için görüş ve öneri alabilirsin. Bu sayede gün geçtikçe daha temiz kod yazmanı sağlamaya çalışıyoruz.
  
 **#business:** Bu kanalda ekibin veya firman için iş ilanı paylaşabilir veya paylaşılan ilanlara göz atabilirsin. Bu kanal ilan doğruluğu sağlamak için sürekli denetlenmektedir. Lütfen bilgileri eksiksiz paylaşmaya özen göster.
+
+**#freelance:** Master Developer rolüne sahip üyelerimiz bu kanalda yakın zamanda açılan UpWork ilanlarını paylaşıyor. Çoğunlukla "çerez" olarak görebileceğin işleri burada bulabilirsin.
  
 **#project-intro:** Projelerini insanlara duyurmak için bu kanalı kullanabilirsin. Fakat reklam içerikli bir proje paylaşmadan önce lütfen moderatörlere danışmayı ihmal etme.
 
