@@ -16,6 +16,7 @@ Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü 
 - [SDT ACTIVITY (Etkinlik Kategorisi)](pages/sdt-activity.md)
 - [SDT SOCIAL (Sosyal Kategorisi)](pages/sdt-social.md)
 - [SDT LAB (Sesli Sohbet Odaları)](pages/sdt-lab.md)
+- [MEMBER PROJECTS (Üyelerimizin Projeleri)](pages/member-projects.md)
 
 ## 🤔 Daha Fazla
 - [Hiyerarşi](pages/sdt-hierarchy.md)
