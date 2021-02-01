@@ -3,6 +3,7 @@
     { "name": "Doğancan Koç", "type": "owner" },
     { "name": "Ömer Ayyıldız", "type": "owner" },
     { "name": "Abdullah Şahin", "type": "mod" },
+    { "name": "Akif Feyzioğlu", "type": "mod" },
     { "name": "Ahmet İbrahim Aksoy", "type": "mod" },
     { "name": "Damla Köksal", "type": "mod" },
     { "name": "Malik Masis", "type": "mod" },
@@ -27,6 +28,10 @@
     { "name": "Ayhan Emre Korucu", "type": "programmer" },
     { "name": "İlge İpek", "type": "programmer" },
     { "name": "Volkan Özçelik", "type": "programmer" },
+    { "name": "Abdullah Uğraşkan", "type": "programmer" },
+    { "name": "Jaex", "type": "programmer" },
+    { "name": "Selçuk Ermaya", "type": "programmer" },
+    { "name": "Azmi Mengü", "type": "programmer" },
     { "name": "Ferdi Çıldız ", "type": "designer" },
     { "name": "Mahmut Emre Altun", "type": "designer" }
   ],
