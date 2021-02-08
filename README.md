@@ -79,6 +79,7 @@ Azmi Mengü
 ```
 $ npx sdtr --list-special-designers 
 
+Alihan Büker
 Ferdi Çıldız 
 Mahmut Emre Altun
 
